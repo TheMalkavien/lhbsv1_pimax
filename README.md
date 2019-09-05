@@ -27,8 +27,8 @@ I may (or not !) work with "A" mode.
 ## Configuration 
 
 At this moment, you have to provide in the configuration file :
- - The MAC address of your Bas Station in "B" mode
- - The unique ID of your Bas Station in "B" mode (writtent on the back of the basestation)
+ - The MAC address of your Base Station in "B" mode
+ - The unique ID of your Base Station in "B" mode (writtent on the back of the basestation)
 
 It is possible to scan and find this data, may be included in new releases ?
 
