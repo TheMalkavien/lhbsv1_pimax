@@ -2,7 +2,7 @@
 
 ## LightHouse BaseStation v1 for Pimax Headsets
 
-This tool looks for Pimax Headset (5k, 5k+, 8k) then wake up and control the timeout of LightHouse Base Stations v1
+This tool looks for Pimax Headset (5k+ at least) then wake up and control the timeout of LightHouse Base Stations v1
 
 ## Informations
 
@@ -12,7 +12,7 @@ I'm not sure I can provide any support / help, but I can try.
 The purpose of this PoC is to show what is possible, to be used / included in other OpenSource tools (like Pitool in the future)
 
 I only speak about a BaseStation in "B" mode because the "C" mode is a slave and will follow the power state of the master one shortly after.
-I may (or not !) work with "A" mode.
+It may (or not !) work with "A" mode.
 
 ## Requirements
 
